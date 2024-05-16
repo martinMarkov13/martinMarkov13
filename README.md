@@ -1,6 +1,5 @@
-# Welcome to My GitHub Profile
+<h1 align="center">Hello everyone, I am **Martin Markov** and welcome to My GitHub Profile 👋 </h1>
 
-### Hello everyone, I am **Martin Markov** 👋
 
 <!--
 **martinMarkov13/martinMarkov13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
