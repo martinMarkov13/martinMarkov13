@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-### Hello everyone, I am **Martin Markov**
+### Hello everyone, I am **Martin Markov** 👋
 
 <!--
 **martinMarkov13/martinMarkov13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
