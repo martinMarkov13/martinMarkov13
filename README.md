@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Martin Markov and welcome to my GitHub profile 👋 </h1>
 
-Motivated junior JavaScript developer with a strong desire to kickstart my professional career. I have experience in creating dynamic and responsive web applications using JavaScript, React, NodeJs, HTML, and CSS.
+I can say about me that I'm motivated junior JavaScript developer with a strong desire to kickstart my professional career. I have experience in creating dynamic and responsive web applications using JavaScript, React, NodeJs, HTML, and CSS.
 I am eager to bring my abilities, teamwork skills, and strong enthusiasm for learning to a collaborative development team. I am committed to continuously improving my coding skills and staying updated with the latest industry trends and technologies.
 
 ## ☎️ Contacts:
